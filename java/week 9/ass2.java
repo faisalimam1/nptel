@@ -21,9 +21,7 @@ class W09_P2 {
             String number = br.readLine();
             int x = Integer.parseInt(number);
             System.out.print(x * x);
-        } catch (IOException e) {
-            System.out.print("Error reading input");
-        } catch (NumberFormatException e) {
+        } catch (Exception e) {
             System.out.print("Please enter valid data");
         }
         // to here
