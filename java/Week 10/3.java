@@ -38,7 +38,7 @@ class PrintNumbers implements Runnable {
             }
         }
     }
-    // till here
+    // to here
 }
 public class W10_P3 {
     public static void main(String[] args) {
