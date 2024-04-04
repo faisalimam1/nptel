@@ -31,7 +31,7 @@ public class W10_P2 {
             }
         }
     }
-    // till here
+    // to here
 
     public static void main(String args[]) {
         int i, j;
