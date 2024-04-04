@@ -29,7 +29,7 @@ public class W10_P4 {
         }
         return true;
     }
-    // till here
+    // to here
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
