@@ -28,7 +28,7 @@ class W10_P1 {
             }
         }
     }
-    // till here
+    // to here
 
     public static void main(String... a) {
         Scanner s = new Scanner(System.in);
