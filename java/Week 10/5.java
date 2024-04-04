@@ -38,7 +38,7 @@ class TemperatureConverter {
         return (fahrenheit - 32) * 5 / 9;
     }
 }
-// till here
+// to here
 
 public class W10_P5 {
     public static void main(String[] args) {
