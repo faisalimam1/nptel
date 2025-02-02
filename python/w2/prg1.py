@@ -5,3 +5,11 @@ The program should prompt the user to input a number n, then compute and print t
 
 n=int(input())
 print(n*(n+1)*(2*n+1)//6,end='')  #direct formula
+
+'''
+Example:
+Input:
+5
+Output:
+55
+'''
