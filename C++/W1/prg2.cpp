@@ -22,3 +22,11 @@ int main() {
         cout << words[i] << " ";
     return 0;
 }
+
+/*
+Input:
+Lion Tiger Bear Hippo Bull
+
+Output:
+Tiger Lion Hippo Bull Bear
+*/
