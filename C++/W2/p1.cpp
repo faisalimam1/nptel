@@ -11,14 +11,13 @@ using namespace std;
 
 struct point {
     int x, y;
-};
-
-point operator+(int t) const{    //LINE-1
+    point operator+(int t) const{    //LINE-1
     point new_pt;      //LINE-2
-    new_pt.x = pt.x + t;
-    new_pt.y = pt.y + t;
+    new_pt.x = x + t;
+    new_pt.y = y + t;
     return new_pt;       //LINE-3
 }
+};
 int main() {
     int a, b, c;
     cin >> a >> b >> c;
